@@ -2,7 +2,7 @@
 
 Visor web de realidad aumentada para el modelo 3D de servidores.
 
-El modelo se publica al 14% de la escala del archivo fuente para una colocacion inicial mas manejable en realidad aumentada.
+El modelo se publica al 16% de la escala del archivo fuente para una colocacion inicial mas manejable en realidad aumentada.
 
 ## Ejecutar localmente
 
