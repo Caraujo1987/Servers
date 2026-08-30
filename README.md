@@ -2,6 +2,8 @@
 
 Visor web de realidad aumentada para el modelo 3D de servidores.
 
+El modelo se publica al 50% de su escala original para una colocacion inicial mas manejable en realidad aumentada.
+
 ## Ejecutar localmente
 
 ```powershell
