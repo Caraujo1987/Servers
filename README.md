@@ -5,7 +5,7 @@ Visor web de realidad aumentada para el modelo 3D de servidores.
 ## Ejecutar localmente
 
 ```powershell
-python -m http.server 4173
+node dev-server.cjs
 ```
 
 Abre `http://localhost:4173`.
