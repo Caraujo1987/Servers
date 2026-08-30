@@ -20,6 +20,28 @@ model-viewer {
   background: #ffffff;
 }
 
+.brand-logo {
+  position: fixed;
+  top: clamp(146px, 27vh, 330px);
+  left: 50%;
+  z-index: 4;
+  width: min(320px, 68vw);
+  height: clamp(66px, 7.4vh, 86px);
+  transform: translateX(-50%);
+  overflow: hidden;
+  pointer-events: none;
+}
+
+.brand-logo img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: block;
+  width: 100%;
+  height: auto;
+  transform: translateY(-37.2%);
+}
+
 .placement-switch {
   position: absolute;
   top: 16px;

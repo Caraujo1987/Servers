@@ -2,7 +2,7 @@
 
 Visor web de realidad aumentada para el modelo 3D de servidores.
 
-El modelo se publica al 16.5% de la escala del archivo fuente para una colocacion inicial mas manejable en realidad aumentada. Incluye el logo de ServiceLab y las etiquetas HPE PCAI Large y HPE PCAI Small incorporadas directamente al modelo AR.
+El modelo se publica al 16.5% de la escala del archivo fuente para una colocacion inicial mas manejable en realidad aumentada. Las etiquetas HPE PCAI Large y HPE PCAI Small forman parte del modelo AR; el logo de ServiceLab se muestra en la vista web para no afectar la visualizacion nativa en iPhone.
 
 ## Ejecutar localmente
 
