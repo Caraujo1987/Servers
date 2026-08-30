@@ -10,6 +10,7 @@ const contentTypes = {
   '.html': 'text/html; charset=utf-8',
   '.js': 'text/javascript; charset=utf-8',
   '.png': 'image/png',
+  '.usdz': 'model/vnd.usdz+zip',
   '.webp': 'image/webp'
 };
 
