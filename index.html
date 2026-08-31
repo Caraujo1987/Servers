@@ -10,8 +10,8 @@
   <body>
     <model-viewer
       id="ar-viewer"
-      src="./SERVERS.glb?v=20260830-labeled-panels-aligned"
-      ios-src="./SERVERS.usdz?v=20260830-labeled-panels-aligned"
+      src="./SERVERS.glb?v=20260830-equal-panels-poster"
+      ios-src="./SERVERS.usdz?v=20260830-equal-panels-poster"
       alt="Modelo 3D de servidores"
       ar
       ar-modes="webxr scene-viewer quick-look"
@@ -19,9 +19,10 @@
       ar-scale="auto"
       xr-environment
       camera-controls
-      camera-orbit="0deg 75deg 78%"
+      camera-orbit="0deg 75deg 145%"
       touch-action="pan-y"
       tone-mapping="neutral"
+      poster="./poster-current.png?v=20260830-equal-panels"
       shadow-intensity="1">
       <div class="placement-switch" slot="top" aria-label="Plano de realidad aumentada">
         <button class="placement-option active" type="button" data-placement="floor" aria-pressed="true">Piso</button>
